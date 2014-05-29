@@ -21,7 +21,7 @@ sudo apt-get install gdebi
 sudo apt-get install unity-tweak-tool
 sudo apt-get install gnome-tweak-tool
 sudo apt-get install compizconfig-settings-manager
-sudo apt-get install p7zip-full p7zip-rar rar unrar
+sudo apt-get install p7zip-full p7zip-rar rar unrar p7zip-rar unace zip unzip sharutils uudeview mpack arj cabextract file-roller
 sudo apt-get install gtkpod
 sudo apt-get install k3b
 sudo apt-get install kde-l10n-es
@@ -40,7 +40,6 @@ sudo apt-get install gnome-shell
 sudo apt-get install firmware-tools*
 sudo aptitude install ubuntu-restricted-extras
 sudo apt-get install faad gstreamer0.10-ffmpeg gstreamer0.10-plugins-bad gstreamer0.10-plugins-bad-multiverse gstreamer0.10-plugins-ugly gstreamer0.10-plugins-ugly-multiverse gstreamer0.10-pitfdll
-sudo apt-get install p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller
 sudo apt-get install vlc
 sudo aptitude install pitivi
 sudo apt-get install calibre
